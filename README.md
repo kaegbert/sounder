@@ -7,10 +7,11 @@ Express.js is a Node.js framework. It's the most popular framework as of now (th
 
 
 The first thing you need to do is install node.js and node package manager.
-You can get the most recent install here: https://nodejs.org/en/
+[install node.js](https://nodejs.org/en/)
 
-This is an excellent guide for installing node if you use mac: https://coolestguidesontheplanet.com/installing-node-js-on-osx-10-10-yosemite/
+[This is an excellent guide for installing node if you use mac](https://coolestguidesontheplanet.com/installing-node-js-on-osx-10-10-yosemite/)
 
 
-'''npm install socket.io'''
-'''npm install express?'''
+
+```npm install socket.io```
+```npm install express```
